@@ -24,11 +24,11 @@ class setting:
     # 电脑缩放比例
     sf = 1.25
 
-    username = '13112910007'  # 12306账号       ——必须参数
-    password = 'ivan1997'  # 密码       ——必须参数
+    username = 'xxxxxxxxxxxxx'  # 12306账号       ——必须参数
+    password = 'xxxxxxxx'  # 密码       ——必须参数
 
-    cjy_user = 'ivan97'  # 超级鹰账号       ——必须参数
-    cjy_pwd = 'ivan1997'  # 密码       ——必须参数
+    cjy_user = 'xxxxx'  # 超级鹰账号       ——必须参数
+    cjy_pwd = 'xxxxxxxxxx'  # 密码       ——必须参数
 
     # email_bgs = 0           # 是否发送邮件的阈值，1代表需要发送邮件，0或其他值代表不需要发送邮件，自行切换
     # email_user = ''     # 发送邮件的163邮箱账号
